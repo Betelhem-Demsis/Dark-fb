@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBjUhFr4cA0-ZODjWHDzK1-Rp7XEh2ZhzQ",
+  apiKey: "",
   authDomain: "fb-clone-ad75f.firebaseapp.com",
   projectId: "fb-clone-ad75f",
   storageBucket: "fb-clone-ad75f.appspot.com",
