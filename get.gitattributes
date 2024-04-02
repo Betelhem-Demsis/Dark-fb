@@ -1,0 +1,15 @@
+*.cache -text
+.firebaserc -text
+.gitignore -text
+.hintrc -text
+README.md -text
+firebase.json -text
+package-lock.json -text
+package.json -text
+public/index.html -text
+public/manifest.json -text
+public/robots.txt -text
+src/App.js -text
+src/index.css -text
+src/index.js -text
+src/reportWebVitals.js -text

@@ -1,0 +1,9 @@
+.storyReel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.storyReel__story {
+  margin-right: 20px;
+}

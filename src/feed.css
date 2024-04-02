@@ -1,0 +1,7 @@
+.feed {
+  flex: 1;
+  margin-top: 20px;
+  padding: 30px 15px;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,27 @@
+body {
+  background: black;
+  color: white;
+}
+.app__body {
+  display: flex;
+  height: 100vh; /* Adjust this to fit your layout */
+  overflow: hidden; /* Prevents the whole body from scrolling */
+}
+
+.sidebar,
+.widgets {
+  position: sticky;
+  top: 0; /* Makes them stick to the top of the viewport */
+}
+
+.feed {
+  overflow-y: auto; /* Makes this element scrollable */
+  flex-grow: 1; /* Makes it take up remaining space */
+}
+.feed::-webkit-scrollbar {
+  display: none;
+}
+.feed {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

@@ -1,0 +1,33 @@
+.widget_sponsors {
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 30px;
+  border-bottom: 0.5px solid #fff;
+}
+
+.widget_sponsor {
+  display: flex;
+  column-gap: 2rem;
+  padding: 15px;
+  margin-right: 50px;
+}
+.widget_sponsor > img {
+  border-radius: 20px;
+}
+.widget_sponsor > p {
+  color: rgb(195, 191, 191);
+  display: grid;
+  align-items: center;
+}
+.widget_Birthday {
+  border-bottom: 0.5px solid #fff;
+  height: 120px;
+}
+.widget__info {
+  display: flex;
+  padding-top: 20px;
+}
+.widget_Birthday > h4 {
+  font-size: 20px;
+  margin-top: 10px;
+}
