@@ -1,5 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
+# React App
+  Dark Themed Facebook clone
+# Overview
+| ![Front Page](images/Screenshot%202024-04-02%20174316.png) | ![Signup Page](images/Screenshot%202024-04-02%20174347.png) |
+|:---:|:---:|
+| Front Page | Signup Page |
